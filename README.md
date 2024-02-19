@@ -8,4 +8,4 @@ A simple program to profile the data of a CSV file and generate a report in HTML
 - Jupyter Notebook
 
 ## Snippet
-![snippet](https://github.com/Lu15700/data_profiling_in_python/assets/102251361/6338b546-d49d-4bbf-84a6-aecc69499b8a)
+![snippet](https://github.com/Lu15700/data_profiling_in_python/assets/102251361/0833faf4-cf23-46db-98ef-6f55c64e0d3b)
